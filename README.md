@@ -1,4 +1,4 @@
-<a href="https://plumchloride.github.io/" target="_blank">ポートフォリオサイト(github.io)</a>  
+<a href="https://plum-chloride.jp/" target="_blank">ポートフォリオサイト(https://plum-chloride.jp/)</a>  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plumchloride"></img>
 </a>
